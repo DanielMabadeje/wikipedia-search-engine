@@ -1,4 +1,3 @@
-//Code By Webdevtrick ( https://webdevtrick.com )
 $(document).ready(function () {
     const search = document.getElementById("search");
     var searchContent;   
